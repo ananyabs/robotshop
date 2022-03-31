@@ -14,3 +14,5 @@ resource "helm_release" "robot-shop" {
   chart         = "C:\\Users\\bsan\\Desktop\\robot-shop\\K8s\\helm"
   
 }
+
+#hii can u see me?
